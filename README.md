@@ -29,7 +29,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-![Khrustalion's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Khrustalion&theme=dark)
+![Khrustalion's LeetCode stats](https://leetcard.jacoblin.cool/Khrustalion?theme=unicorn&extension=activity)
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
