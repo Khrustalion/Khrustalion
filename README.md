@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Khrustalion
-- 👀 I’m a first year student of ITMO University
+- 👀 I’m a second year student of ITMO University
 
 ## ✏ Studing
 🕐 **First year**
