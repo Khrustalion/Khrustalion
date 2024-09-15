@@ -3,12 +3,12 @@
 
 ## ✏ Studing
 🕐 **First year**
-  - [1-semester](https://github.com/Khrustalion/1-semester.git)
+  - [1-semester](https://github.com/Khrustalion/1-semester)
   - [2-semester](https://github.com/Khrustalion/2-semester)
     
 🕑 **Second year**
 
-  - 3-semester
+  - [3-semester](https://github.com/Khrustalion/3-semester)
   - 4-semester
     
 🕒 **Third year**
