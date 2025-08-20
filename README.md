@@ -9,7 +9,7 @@
 🕑 **Second year**
 
   - [3-semester](https://github.com/Khrustalion/3-semester)
-  - 4-semester
+  - [4-semester](https://github.com/Khrustalion/4-semester)
     
 🕒 **Third year**
 
