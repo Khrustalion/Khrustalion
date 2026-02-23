@@ -14,7 +14,7 @@
 🕒 **Third year**
 
   - 5-semester
-  - 6-semester
+  - [6-semester](https://github.com/Khrustalion/6-semester)
     
 🕓 **Fourth year**
 
